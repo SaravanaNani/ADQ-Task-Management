@@ -62,7 +62,7 @@ def update_status():
         users[username][task_index]["status"] = new_status
         messagebox.showinfo("Success", "Task status updated successfully!")
     else:
-        messagebox.showerror("Error", "Invalid task number!")
+        messagebox.showerror("Error", "Invalid Ticket number!")
 
 def delete_user_tasks():
     username = user_entry.get().strip()
@@ -95,7 +95,7 @@ tk.Button(app, text="Add Task", command=add_task).grid(row=1, column=2, padx=10,
 tk.Button(app, text="View All Tasks", command=view_all_tasks).grid(row=2, column=0, columnspan=3, pady=10)
 
 # Update task status
-tk.Label(app, text="Task Number:").grid(row=3, column=0, padx=10, pady=5)
+tk.Label(app, text="Ticket Number:").grid(row=3, column=0, padx=10, pady=5)
 task_index_entry = tk.Entry(app, width=10)
 task_index_entry.grid(row=3, column=1, padx=10, pady=5)
 
