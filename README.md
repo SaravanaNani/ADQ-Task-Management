@@ -1,5 +1,4 @@
-# ADQ-Task-Management
-# User & Task Management Module
+# ADQ-Task-Management - User & Task Management Module
 
 This project is a Python-based User and Task Management application that uses Tkinter for a graphical user interface (GUI). The application allows adding users, assigning tasks to users, updating task statuses, viewing all tasks, and deleting a user along with their tasks.
 
@@ -45,12 +44,12 @@ Python 3.x installed on your system.
 
 Clone the Repository:
 ```
-git clone https://github.com/SaravanaNani/Python-task.git
+https://github.com/SaravanaNani/ADQ-Task-Management.git
 ```
 
 Run the Application:
 
-task-managemet-app.py
+task-managemet.py
 
 # Usage Guide
 
@@ -89,5 +88,3 @@ task-managemet-app.py
 -> Enter the username in the User Name field.
 
 -> Click the "Delete User & Tasks" button.
-
-``` 
