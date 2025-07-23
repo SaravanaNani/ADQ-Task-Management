@@ -107,6 +107,9 @@ task-managemet.py
 
 <img width="1073" height="643" alt="image" src="https://github.com/user-attachments/assets/48a27bae-fc8e-40b0-a846-c421f82bb4c0" />
 
+<img width="1071" height="623" alt="image" src="https://github.com/user-attachments/assets/3387a425-17e3-46ed-8e19-141464fad56d" />
+
+
 
 ### Delete User & Tasks
 
