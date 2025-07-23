@@ -78,6 +78,12 @@ task-managemet.py
 <img width="651" height="428" alt="image" src="https://github.com/user-attachments/assets/d9a5c66d-a87c-4026-921e-9bf36dc8a6f4" />
 
 
+-> Tasks start with a default status of "New":
+
+
+<img width="628" height="339" alt="image" src="https://github.com/user-attachments/assets/da578ca3-6c76-40dd-b2d5-d9f0a14bbd5a" />
+
+
 ### View All Tasks
 
 -> Click the "View All Tasks" button.
@@ -86,12 +92,6 @@ task-managemet.py
 
 
 <img width="1026" height="654" alt="image" src="https://github.com/user-attachments/assets/70073b7f-91bb-4006-bc7c-2ba62b03a588" />
-
-
--> Tasks start with a default status of "New":
-
-
-<img width="628" height="339" alt="image" src="https://github.com/user-attachments/assets/da578ca3-6c76-40dd-b2d5-d9f0a14bbd5a" />
 
 
 ### Update Task Status
